@@ -24,7 +24,7 @@ msgstr "简单VPN"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:83
 msgid "API username to retrieve personnalized settings from the server."
-msgstr "API用户名，以从蚂蚁聚合服务器检索个性化设置."
+msgstr "API用户名，以从聚合服务器检索个性化设置."
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:660
 msgid "APN"
@@ -32,7 +32,7 @@ msgstr "APN"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:128
 msgid "Add a new server"
-msgstr "添加一个新蚂蚁聚合服务器"
+msgstr "添加一个新聚合服务器"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:829
 msgid "Add an interface"
@@ -108,19 +108,19 @@ msgstr "CHAP"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:252
 msgid "Can\\'t access and use server part"
-msgstr "无法访问和使用蚂蚁聚合服务器部分服务"
+msgstr "无法访问和使用聚合服务器部分服务"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:275
 msgid "Can\\'t contact Server Admin Script"
-msgstr "无法联系蚂蚁聚合服务器管理脚本"
+msgstr "无法联系聚合服务器管理脚本"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:268
 msgid "Can\\'t get public IP address from ShadowSocks"
-msgstr "无法从ShadowSocks获取公共蚂蚁聚合IP地址"
+msgstr "无法从ShadowSocks获取公共聚合IP地址"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:265
 msgid "Can\\'t ping server"
-msgstr "无法ping蚂蚁聚合服务器"
+msgstr "无法ping聚合服务器"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:488
 msgid ""
@@ -136,7 +136,7 @@ msgstr "选择物理接口。"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:133
 msgid "Common server settings"
-msgstr "通用蚂蚁聚合服务器设置"
+msgstr "通用聚合服务器设置"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:130
 msgid "Core temp:"
@@ -225,7 +225,7 @@ msgstr "禁用服务器ping状态检查"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/settings.htm:266
 msgid "Disable tracebox test"
-msgstr "禁用跟蚂蚁跟踪测试"
+msgstr "禁用跟踪测试"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:722
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:734
@@ -574,7 +574,7 @@ msgstr "没有服务器IP地址，没有WAN IP地址"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:261
 msgid "No server defined"
-msgstr "未定义蚂蚁聚合服务器"
+msgstr "未定义聚合服务器"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:223
 msgid "None"
@@ -613,7 +613,7 @@ msgstr "只能将一台服务器作为主服务器，否则将所有服务器都
 #: luci-app-openmptcprouter/luasrc/controller/openmptcprouter.lua:14
 #: luci-app-openmptcprouter/root/usr/share/luci/menu.d/luci-app-openmptcprouter.json:3
 msgid "OpenMPTCProuter"
-msgstr "蚂蚁聚合路由器"
+msgstr "聚合路由器"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:339
 msgid "OpenVPN can't be used in multi VPS configuration."
@@ -630,7 +630,7 @@ msgstr "其他"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/settings.htm:223
 msgid "Other settings"
-msgstr "蚂蚁聚合其他设置"
+msgstr "聚合其他设置"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:690
 msgid "PAP"
@@ -744,7 +744,7 @@ msgstr "服务器密钥"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:52
 msgid "Server settings"
-msgstr "蚂蚁聚合服务器设定"
+msgstr "聚合服务器设定"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:78
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:80
@@ -799,7 +799,7 @@ msgstr "设置为最大上传速度链接的80-95％之间的值。 0禁用SQM /
 
 #: luci-app-openmptcprouter/luasrc/controller/openmptcprouter.lua:15
 msgid "Settings Wizard"
-msgstr "蚂蚁聚合设置向导"
+msgstr "聚合设置向导"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:153
 msgid "ShadowSocks is not running"
@@ -965,7 +965,7 @@ msgstr "启用后，将在外部站点上进行检查，以获取每个WAN IP和
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wizard.htm:50
 msgid "Wizard"
-msgstr "蚂蚁聚合向导"
+msgstr "聚合向导"
 
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:75
 #: luci-app-openmptcprouter/luasrc/view/openmptcprouter/wanstatus.htm:80
